@@ -101,7 +101,7 @@
 
 ## 📜 Certifications
 
-<img src="https://c.tenor.com/j9Vt--B8QDcAAAAC/tenor.gif" align="right" width="260" style="border-radius: 12px; margin-left: 20px;" alt="Certifications GIF" />
+<img src="https://c.tenor.com/j9Vt--B8QDcAAAAC/tenor.gif" align="right" width="250" style="border-radius: 12px; margin-left: 20px;" alt="Certifications GIF" />
 
 - 🎓 **IBM Data Science Professional Certificate**  
 - 📊 **Microsoft Certified: Azure Fundamentals**  
