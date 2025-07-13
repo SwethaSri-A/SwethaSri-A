@@ -88,7 +88,7 @@
 ---
 
 ## 🏆 Achievements
-
+<img src="https://cdn.dribbble.com/userupload/42185028/file/original-86c49ea76f37f531a24287f90de45565.gif" align="right" width="280" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
 - ✅ 99.5% ML model accuracy  
 - 📊 95% satisfaction from BI dashboard users  
 - 💡 30% improvement in data quality using AI  
