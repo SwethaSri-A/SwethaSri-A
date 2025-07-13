@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://balancedscorecard.org/wp-content/uploads/2024/01/Bizwoman-magnifying-glass-analyzing-bar-chart_500x333.png" />
+  <img src="https://claude.ai/public/artifacts/7bbc2be2-6838-4644-a407-50e7571c6c2d" />
   <br />
   <i>✨ "Turning data into impact — one insight at a time." ✨</i>
 </div>
