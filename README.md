@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" />
+  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LcQVrylgsdRfppOjiR6mIg.png" />
   <br />
   <i>✨ "Turning data into impact — one insight at a time." ✨</i>
 </div>
