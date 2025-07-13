@@ -74,6 +74,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" align="right" width="250" style="border-radius: 12px; margin-left: 20px;" alt="Projects GIF" />
 
 ### 🧠 [Brain Tumor Detection](https://github.com/YOUR_USERNAME/brain-tumor-detection)
+<img src="https://community.wolfram.com/c/portal/getImageAttachment?filename=BrainTumor.gif&userId=48754" align="right" width="120" style="margin-left: 12px; border-radius: 8px;" alt="Brain Tumor GIF" />
 🧪 Reduced false positives by 30% using CNN, ANN & KNN  
 🧠 Impact: Improved diagnostic reliability of MRI scans
 
