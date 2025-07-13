@@ -71,7 +71,7 @@
 
 > 📌 Click on titles to explore!
 
-<img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" align="right" width="230" style="border-radius: 10px; margin-left: 16px;" alt="Projects GIF" />
+<img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" align="right" width="280" style="border-radius: 12px; margin-left: 20px;" alt="Projects GIF" />
 
 ### 🧠 [Brain Tumor Detection](https://github.com/YOUR_USERNAME/brain-tumor-detection)
 🧪 Reduced false positives by 30% using CNN, ANN & KNN  
