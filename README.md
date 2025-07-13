@@ -5,13 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F759AB&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+Data+Analyst;Graduate+Research+Assistant;Turning+Data+into+Decisions" alt="Typing SVG" />
 </div>
 
+
 <div align="center">
   <img src="https://bunny-wp-pullzone-3xue3q6yzy.b-cdn.net/wp-content/uploads/2024/10/HERO-Data-Analyst-Career-Path.png?width=1200" width="60%" alt="Swetha Banner" />
 </div>
 
+
 ---
 
+
 ## 🚀 About Me
+
 
 <img src="https://play-lh.googleusercontent.com/TuOrxOz_A7Fm5PIdGTvoHmrgKEpddiE9QjXdWUPHFWlb6OTY51YJxZntAWjYC3fetqI" align="right" width="180" style="border-radius:10px; margin-left: 16px;" alt="Swetha profile visual"/>
 
@@ -22,6 +26,7 @@
 🌱 Passionate about **AI/ML, Data Science, and Business Intelligence**  
 📍 Based in **New York, NY**  
 🎯 Building tools that don’t just analyze data — but **drive impact**
+
 
 
 ---
