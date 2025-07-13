@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.dice.com/binaries/medium/content/gallery/dice/insights/2024/07/adobestock_568056624.jpeg" width="60%" alt="Swetha Banner" />
+  <img src="https://bunny-wp-pullzone-3xue3q6yzy.b-cdn.net/wp-content/uploads/2024/10/HERO-Data-Analyst-Career-Path.png?width=1200" width="60%" alt="Swetha Banner" />
 </div>
 
 ---
