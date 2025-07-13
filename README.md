@@ -1,4 +1,7 @@
-# 💫 Hi there! I'm Swetha Addepalli
+# 💫 <div style="font-family: Cambria, serif;">
+  Hi there! I'm Swetha Addepalli
+</div>
+Hi there! I'm Swetha Addepalli
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F759AB&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+Data+Analyst;Graduate+Research+Assistant;Turning+Data+into+Decisions" alt="Typing SVG" />
