@@ -89,7 +89,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://nebula.wsimg.com/21ae96d83a71c3158f1cbb98a8dae45e?AccessKeyId=0809C124363B4C5C3456&disposition=0&alloworigin=1" align="right" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
+<img src="https://cdn.dribbble.com/userupload/27624226/file/original-ac3d6cba710fe5ec6454d453664a743d.gif" align="right" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
 
 - ✅ 99.5% ML model accuracy  
 - 📊 95% satisfaction from BI dashboard users  
