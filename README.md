@@ -110,10 +110,10 @@
 
 ## 💡 Fun Facts
 
-- 🎓 3x University Topper at JNTU
-- 🔬 Graduate Research Assistant in Energy Sector
-- 🌟 Passionate about turning data into actionable insights
-- 🚀 Always exploring the latest in AI/ML technologies
+- I love telling stories — but with **data**
+- I love building models that solve real world problems
+- And yes... I do get excited about clean data and clever dashboards 😄  
+- My fuel? ☕ + curiosity + Kaggle notebooks
 
 ---
 
