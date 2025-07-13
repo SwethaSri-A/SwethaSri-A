@@ -76,7 +76,6 @@
 ### 🧠 [Brain Tumor Detection](https://github.com/YOUR_USERNAME/brain-tumor-detection) 
 🧪 Reduced false positives by 30% using CNN, ANN & KNN  
 🧠 Impact: Improved diagnostic reliability of MRI scans
-<img src="https://community.wolfram.com/c/portal/getImageAttachment?filename=BrainTumor.gif&userId=48754" width="50" style="margin-left: 8px; vertical-align: middle;" alt="Brain Tumor GIF"/>
 
 ### 🌦️ [Tallahassee Weather Analysis](https://github.com/YOUR_USERNAME/weather-analysis)
 📊 Time-series & ARIMA applied to 70+ years of weather data  
