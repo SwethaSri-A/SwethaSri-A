@@ -89,7 +89,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://media.tenor.com/2rKnYuL_2wwAAAAi/achievement-success.gif" align="right" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
+<img src="https://media.tenor.com/2rKnYuL_2wwAAAAi/achievement-success.gif" align="right" width="180" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
 
 - ✅ 99.5% ML model accuracy  
 - 📊 95% satisfaction from BI dashboard users  
