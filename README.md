@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LcQVrylgsdRfppOjiR6mIg.png" />
+  <img src="https://balancedscorecard.org/wp-content/uploads/2024/01/Bizwoman-magnifying-glass-analyzing-bar-chart_500x333.png" />
   <br />
   <i>✨ "Turning data into impact — one insight at a time." ✨</i>
 </div>
