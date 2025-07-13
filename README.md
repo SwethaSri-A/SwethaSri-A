@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://claude.ai/public/artifacts/7bbc2be2-6838-4644-a407-50e7571c6c2d" />
+  <img src="https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/four%20steps%20to%20turn%20big%20data%20into%20action/image_hero%20four%20steps%20app.jpg" />
   <br />
   <i>✨ "Turning data into impact — one insight at a time." ✨</i>
 </div>
