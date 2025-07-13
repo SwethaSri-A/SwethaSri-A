@@ -15,21 +15,15 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
+<img src="https://play-lh.googleusercontent.com/TuOrxOz_A7Fm5PIdGTvoHmrgKEpddiE9QjXdWUPHFWlb6OTY51YJxZntAWjYC3fetqI" align="right" width="180" style="border-radius:10px; margin-left: 16px;" alt="Swetha profile visual"/>
 
-<div align="right">
-  <img src="https://play-lh.googleusercontent.com/TuOrxOz_A7Fm5PIdGTvoHmrgKEpddiE9QjXdWUPHFWlb6OTY51YJxZntAWjYC3fetqI" width="180" style="float:right; margin-left: 20px; border-radius: 10px;" alt="Swetha Visual" />
-</div>
-
-<div style="font-family: Cambria, serif; font-size: 18px;">
-🎓 Graduated with an <strong>M.S. in Data Science</strong> from Florida State University (GPA: 3.97/4.0)  
-🏆 <strong>3x Academic Excellence Award Winner</strong> (University Topper)  
-💼 <strong>Data Analyst Intern</strong> @ SmartProtect Public Safety Solutions  
-🔬 Former <strong>Graduate Research Assistant</strong> – AI + Energy + Dashboards  
-🌱 Passionate about <strong>AI/ML, Data Engineering & Business Intelligence</strong>  
-📍 Based in <strong>New York, NY</strong>  
-🎯 Building tools that don’t just analyze data — but amplify decisions.
-</div>
+🎓 Graduated with an **M.S. in Data Science** from Florida State University (GPA: 3.97/4.0)  
+🏆 **3x Academic Excellence Award Winner** (University Topper)  
+💼 Currently working as **Data Analyst Intern** @ SmartProtect Public Safety Solutions  
+🔬 Former **Graduate Research Assistant** in AI + Energy Intelligence  
+🌱 Passionate about **AI/ML, Data Science, and Business Intelligence**  
+📍 Based in **New York, NY**  
+🎯 Building tools that don’t just analyze data — but **drive impact**
 
 ---
 
