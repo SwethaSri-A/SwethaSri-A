@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="http://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w" align="right" width="230" style="border-radius: 10px; margin-left: 16px;" alt="Tech Stack Visual" />
+<img src="http://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w" align="right" width="250" style="border-radius: 10px; margin-left: 16px;" alt="Tech Stack Visual" />
 
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,7 +71,7 @@
 
 > 📌 Click on titles to explore!
 
-<img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" align="right" width="280" style="border-radius: 12px; margin-left: 20px;" alt="Projects GIF" />
+<img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif" align="right" width="250" style="border-radius: 12px; margin-left: 20px;" alt="Projects GIF" />
 
 ### 🧠 [Brain Tumor Detection](https://github.com/YOUR_USERNAME/brain-tumor-detection)
 🧪 Reduced false positives by 30% using CNN, ANN & KNN  
