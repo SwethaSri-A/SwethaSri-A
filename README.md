@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 <img src="https://play-lh.googleusercontent.com/TuOrxOz_A7Fm5PIdGTvoHmrgKEpddiE9QjXdWUPHFWlb6OTY51YJxZntAWjYC3fetqI" align="right" width="180" style="border-radius:10px; margin-left: 16px;" alt="Swetha profile visual"/>
 
 🎓 Graduated with an **M.S. in Data Science** from Florida State University (GPA: 3.97/4.0)  
@@ -24,6 +22,7 @@
 🌱 Passionate about **AI/ML, Data Science, and Business Intelligence**  
 📍 Based in **New York, NY**  
 🎯 Building tools that don’t just analyze data — but **drive impact**
+
 
 ---
 
