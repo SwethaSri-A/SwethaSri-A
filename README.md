@@ -13,14 +13,26 @@
 
 ## 🚀 About Me
 
-🎓 Graduated with an **M.S. in Data Science** from Florida State University (GPA: 3.97/4.0)  
-🏆 **3x Academic Excellence Award Winner** (University Topper)  
-💼 Data Analyst Intern @ **SmartProtect Public Safety Solutions**  
-🔬 Former Graduate Research Assistant – AI + Energy + Dashboards  
-🌱 Passionate about **AI/ML, Data Engineering & Business Intelligence**  
-📍 Based in **New York, NY**  
-🎯 Building tools that don’t just analyze data — but amplify decisions.
+## 🚀 About Me
 
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <div style="font-family: Cambria, serif; font-size: 18px;">
+        🎓 Graduated with an <strong>M.S. in Data Science</strong> from Florida State University (GPA: 3.97/4.0)<br>
+        🏆 <strong>3x Academic Excellence Award Winner</strong> (University Topper)<br>
+        💼 <strong>Data Analyst Intern</strong> @ SmartProtect Public Safety Solutions<br>
+        🔬 Former <strong>Graduate Research Assistant</strong> – AI + Energy + Dashboards<br>
+        🌱 Passionate about <strong>AI/ML, Data Engineering & Business Intelligence</strong><br>
+        📍 Based in <strong>New York, NY</strong><br>
+        🎯 Building tools that don’t just analyze data — but amplify decisions.
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://play-lh.googleusercontent.com/TuOrxOz_A7Fm5PIdGTvoHmrgKEpddiE9QjXdWUPHFWlb6OTY51YJxZntAWjYC3fetqI" alt="Profile Visual" width="180" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
