@@ -89,7 +89,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://cdn.dribbble.com/userupload/27624226/file/original-ac3d6cba710fe5ec6454d453664a743d.gif" align="right" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
+<img src="https://media.tenor.com/2rKnYuL_2wwAAAAi/achievement-success.gif" align="right" width="200" style="border-radius: 12px; margin-left: 20px;" alt="Achievements GIF" />
 
 - ✅ 99.5% ML model accuracy  
 - 📊 95% satisfaction from BI dashboard users  
