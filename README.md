@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/VXBOMoH.png" width="60%" alt="Swetha Banner" />
+  <img src="https://www.dice.com/binaries/medium/content/gallery/dice/insights/2024/07/adobestock_568056624.jpeg" width="60%" alt="Swetha Banner" />
 </div>
 
 ---
