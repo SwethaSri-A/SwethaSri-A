@@ -133,7 +133,10 @@
 ---
 
 <div align="center">
-  <img src="https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/four%20steps%20to%20turn%20big%20data%20into%20action/image_hero%20four%20steps%20app.jpg" />
-  <br />
-  <i>✨ "Turning data into impact — one insight at a time." ✨</i>
+  <img src="https://c.tenor.com/IQ6Z-aPhr1wAAAAd/tenor.gif" width="300" style="border-radius: 12px;" alt="Data Impact GIF" />
 </div>
+
+<div align="center">
+  <i>✨ Turning data into impact — one insight at a time. ✨</i>
+</div>
+
