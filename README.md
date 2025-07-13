@@ -101,10 +101,13 @@
 
 ## 📜 Certifications
 
-- 📚 IBM Data Science Certification  
-- 🧠 Microsoft SQL & Azure Fundamentals  
-- ☁️ Cloud & Analytics – IBM & Microsoft  
-- 🎖️ 3x Academic Excellence Award
+<img src="https://c.tenor.com/j9Vt--B8QDcAAAAC/tenor.gif" align="right" width="260" style="border-radius: 12px; margin-left: 20px;" alt="Certifications GIF" />
+
+- 🎓 **IBM Data Science Professional Certificate**  
+- 📊 **Microsoft Certified: Azure Fundamentals**  
+- ☁️ **SQL & Cloud Computing Certifications** from IBM & Microsoft  
+- 🏆 **110% Effort Award** for going above and beyond  
+- 🏅 **3× Academic Excellence Award** (University Topper)
 
 ---
 
