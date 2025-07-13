@@ -1,4 +1,4 @@
-# 💫 <div style="font-family: Cambria, serif; font-size: 24px; font-weight: bold;">
+# 💫 <div style="font-family: Cambria, serif; font-size: 40px; font-weight: bold;">
   Hi there! I'm Swetha Addepalli
 </div>
 
